@@ -1,7 +1,20 @@
 # Student-Management-System-Java
+Description:
+This project provides a complete GUI-based Student Management System in Java using Swing. It includes student records, teacher details, course management, user login, and student enrollment.
 
-
-
+Java Classes:
+- CourseGUI.java
+- dbConnect.java
+- EnrollmentGUI.java
+- JDBCConnectionTest.java
+- Main.java
+- MainMenuGUI.java
+- SplashScreen.java
+- StudentGUI.java
+- Table.java
+- TeacherGUI.java
+- UserGUI.java
+  
 👨‍🎓 Developed using:
 - Java (IntelliJ IDEA)
 - Swing GUI
